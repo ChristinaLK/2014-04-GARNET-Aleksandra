@@ -4,6 +4,7 @@ Title: "The best paper ever"
 Abstract:
 
 Introduction:
-Data:
-Analysis:
+Data: The data will be collected in the future.
+
+Analysis: Once I collect the data, I will know.
 Conclusion:
