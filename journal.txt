@@ -1,5 +1,5 @@
-Author:
-Title:
+Author: Aleksandra Pawlik
+Title: "The best paper ever"
 
 Abstract:
 
