@@ -5,6 +5,5 @@ Abstract:
 
 Introduction:
 Data: The data will be collected in the future.
-
 Analysis: Once I collect the data, I will know.
-Conclusion:
+Conclusion: Some conclusions go here.
