@@ -1,9 +1,9 @@
 Author: Aleksandra Pawlik
 Title: "The best paper ever"
 
-Abstract:
+Abstract: 
 
 Introduction:
-Data: The data will be collected in the future.
+Data: Git is useful, but confusing at first.  
 Analysis: Once I collect the data, I will know.
 Conclusion: Some conclusions go here.
